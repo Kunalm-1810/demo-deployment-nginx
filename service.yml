@@ -5,7 +5,7 @@ metadata:
   namespace: staging
 spec:
   selector: 
-    app: nginx
+    app: nginx-demo
   ports:
     - protocol: TCP
       port: 80
